@@ -8,7 +8,7 @@
         
         VmInclude:__CURRENT_PATH__/task.js
         //-------------------------------------
-        _task_fields="ESS_1,ESS_2,ESS_3,ESS_4,ESS_5,ESS_6,ESS_7,ESS_8,ESS";
+        _task_fields="SHI_1,SHI_2,SHI_3,SHI_4,SHI_5,SHI_6,SHI_7,SHI_8,SHI_9,SHI_10,SHI_11,SHI_12,SHI_13,SHI";
         _fields="_Form|form_module,Status|S3,Notes|NT,Participant,"+_task_fields;
         _fields+=",Submit Date|DateTime,Submitted by|Author,_Delete,_Hidden|Participant_uid";
         //-------------------------------------
@@ -17,7 +17,7 @@
         //-------------------------------------
         _cell_render=function(records,I,field,td,set_value,source){
             switch(field){
-                case 'ESS':
+                case 'SHI':
                     records[I].vm_readonly[field]=true;
                 break;
             }

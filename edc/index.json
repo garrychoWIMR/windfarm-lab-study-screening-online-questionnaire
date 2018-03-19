@@ -65,14 +65,14 @@
 			        {"table_id":"20009076","task_name":"Medication"},
 					{"table_id":"20009078","task_name":"Sleep Disorders & Patterns"},
 					{"table_id":"20009080","task_name":"Epworth Sleepiness Scale"},
-			        "homecq",
-			        "kessler",
-			        "dass",
-			        "claustrophobia_rs_scale",
-			        "connor_davidson_resilence",
-			        "eysneck",
-			        "hwpq",
-			        "consent2"
+					{"table_id":"20009081","task_name":"Horne and Ostberg Morningness-Eveningness Composite Questionnaire"},
+					{"table_id":"20009083","task_name":"Kessler - 10"},
+					{"table_id":"20009084","task_name":"Depression Anxiety Stress Scale"},
+					{"table_id":"20009085","task_name":"Restriction subscale of Claustrophobia Questionnaire"},
+					{"table_id":"20009086","task_name":"Connor-Davidson Resilience Scale"},
+					{"table_id":"20009087","task_name":"Eysneck"},
+					{"table_id":"20009088","task_name":"Health and Work Performance Questionnaire"},
+					{"table_id":"20008713","task_name":"Consent 2"}
 			    ]
 			}
 		}

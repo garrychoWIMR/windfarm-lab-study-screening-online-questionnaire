@@ -4,6 +4,6 @@
 	"default_production":"Yes",
 	"panels":{
 		"website":	        {"url":"","modules":["website/index.json"]},
-		"sfix-quest-panel":	{"url":"panel/quest.html","modules":["edc/index.json"]}
+		"quest-panel":		{"url":"panel/quest.html","modules":["edc/index.json"]}
 	}
 }
